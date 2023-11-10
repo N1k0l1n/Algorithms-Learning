@@ -1,0 +1,11 @@
+C:\Users\nandoni\Desktop\BackEnd\Algorithm\BubbleSort\bin\Debug\net6.0\BubbleSort.deps.json
+C:\Users\nandoni\Desktop\BackEnd\Algorithm\BubbleSort\bin\Debug\net6.0\BubbleSort.dll
+C:\Users\nandoni\Desktop\BackEnd\Algorithm\BubbleSort\bin\Debug\net6.0\BubbleSort.pdb
+C:\Users\nandoni\Desktop\BackEnd\Algorithm\BubbleSort\obj\Debug\net6.0\BubbleSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nandoni\Desktop\BackEnd\Algorithm\BubbleSort\obj\Debug\net6.0\BubbleSort.AssemblyInfoInputs.cache
+C:\Users\nandoni\Desktop\BackEnd\Algorithm\BubbleSort\obj\Debug\net6.0\BubbleSort.AssemblyInfo.cs
+C:\Users\nandoni\Desktop\BackEnd\Algorithm\BubbleSort\obj\Debug\net6.0\BubbleSort.csproj.CoreCompileInputs.cache
+C:\Users\nandoni\Desktop\BackEnd\Algorithm\BubbleSort\obj\Debug\net6.0\BubbleSort.dll
+C:\Users\nandoni\Desktop\BackEnd\Algorithm\BubbleSort\obj\Debug\net6.0\refint\BubbleSort.dll
+C:\Users\nandoni\Desktop\BackEnd\Algorithm\BubbleSort\obj\Debug\net6.0\BubbleSort.pdb
+C:\Users\nandoni\Desktop\BackEnd\Algorithm\BubbleSort\obj\Debug\net6.0\ref\BubbleSort.dll
